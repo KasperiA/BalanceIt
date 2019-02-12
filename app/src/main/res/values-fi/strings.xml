@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">Koti</string>
+    <string name="nav_stats">Tilastot</string>
+    <string name="nav_settings">Asetukset</string>
+    <string name="name">Nimi:</string>
+    <string name="input_name">Syötä nimi</string>
+    <string name="input_amount">Syötä määrä</string>
+    <string name="amount">Määrä:</string>
+    <string name="date">Päiväys:</string>
+    <string name="category">Kategoria</string>
+    <string name="bug_report">Ilmoita virheestä</string>
+    <string name="rate_app">Arvioi sovellukseni</string>
+    <string name="madeBy">Tekijä: Kasperi Aavasaari</string>
+    <string name="choose_language">Valitse kieli</string>
+    <string name="change_date">Valitse päivä</string>
+    <string name="add_income">Lisää tulo</string>
+    <string name="add_expense">Lisää meno</string>
+    <string name="total_amount">Yhteensä:</string>
+    <string name="incomes">Tulot:</string>
+    <string name="expenses">Menot:</string>
+    <string name="choose_date">Valitse päivä: %1$s/%2$s</string>
+    <string name="todays_date2">%1$s/%2$s</string>
+    <string name="todays_date3">%1$s/%2$s/%3$s</string>
+    <string name="money">%1$s</string>
+    <string name="expense">Meno/%1$s</string>
+    <string name="income">Tulo</string>
+    <string name="housingCategory">Asuminen: %1$s</string>
+    <string name="foodCategory">Ruoka: %1$s</string>
+    <string name="entertainmentCategory">Viihde: %1$s</string>
+    <string name="otherCategory">Muut: %1$s</string>
+    <string name="noTextInput">Sinun täytyy syöttää nimi</string>
+    <string name="noMoneyAmount">Sinun täytyy syöttää määrä</string>
+    <string name="app_name">BalanceIt</string>
+    <string name="noUndone">Toimintoa ei voi perua</string>
+    <string name="deleteConfirmation">Haluatko varmasti poistaa tämän?</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+
+    <string-array name="categories">
+        <item>Asuminen</item>
+        <item>Ruoka</item>
+        <item>Viihde</item>
+        <item>Muu</item>
+    </string-array>
+    <string name="noDataFound">Dataa ei löytynyt</string>
+
+</resources>

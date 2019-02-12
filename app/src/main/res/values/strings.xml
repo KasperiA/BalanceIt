@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BalanceIt</string>
+    <!-- Bottom navigation bar texts -->
+    <string name="nav_home">Home</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_settings">Settings</string>
+    <!-- New income and new Expense -->
+    <string name="name">Name:</string>
+    <string name="input_name">Input name</string>
+    <string name="input_amount">Input amount</string>
+    <string name="amount">Amount:</string>
+    <string name="date">Date:</string>
+    <string name="category">Category</string>
+    <!-- Settings fragment -->
+    <string name="rate_app">Rate my app</string>
+    <string name="bug_report">Report a bug</string>
+    <string name="madeBy">Made by: Kasperi Aavasaari</string>
+    <string name="choose_language">Choose language</string>
+    <!-- Home fragment -->
+    <string name="change_date">Change date</string>
+    <string name="add_income">Add income</string>
+    <string name="add_expense">Add expense</string>
+    <string name="total_amount">Total amount:</string>
+    <string name="incomes">Incomes:</string>
+    <string name="expenses">Expenses:</string>
+
+    <!-- ChooseDate -->
+    <string name="choose_date">Choose date: %1$s/%2$s</string>
+
+
+    <!-- TodaysDate -->
+    <string name="todays_date2">%1$s/%2$s</string>
+    <string name="todays_date3">%1$s/%2$s/%3$s</string>
+
+    <!-- Money -->
+    <string name="money">%1$s</string>
+    <string name="expense">Expense/%1$s</string>
+    <string name="income">Income</string>
+
+    <!-- categories -->
+    <string-array name="categories">
+        <item>Housing</item>
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+    
+    <string name="housingCategory">Housing: %1$s</string>
+    <string name="foodCategory">Food: %1$s</string>
+    <string name="entertainmentCategory">Entertainment: %1$s</string>
+    <string name="otherCategory">Other: %1$s</string>
+
+    <!-- Errors -->
+    <string name="noTextInput">You have to input a name</string>
+    <string name="noMoneyAmount">You have to input the value</string>
+
+
+    <!-- Questions -->
+    <string name="noUndone">The action can not be undone</string>
+    <string name="deleteConfirmation">Are you sure you want to delete this?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="noDataFound">No data found</string>
+
+
+</resources>
